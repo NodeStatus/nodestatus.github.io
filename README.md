@@ -4,6 +4,7 @@
 
 ---
 NodeStatus is an open source service monitor/status page system written in JavaScript.
+
 ---
 ### Contributors:
 #### Joshua Sing (@joshuasing)

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NodeStatus/nodestatus.github.io/master/assets/nodestatus_logo_medium.png">
+  <img src="https://raw.githubusercontent.com/NodeStatus/nodestatus.github.io/master/assets/nodestatus_logo_medium.png" href="https://nodestatus.js.org">
 </p>
 
 ---
